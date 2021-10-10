@@ -21,6 +21,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: large
           config_timezone: Europe/Samara
+          repositories_skipped: status
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
