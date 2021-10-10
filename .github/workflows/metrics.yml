@@ -66,8 +66,9 @@ jobs:
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 8148543
           plugin_traffic: yes
-          plugin_tweets: yes
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 3
-          plugin_tweets_user: fixator10
+          # fuck you, @twitter, and your verification
+          # plugin_tweets: yes
+          # plugin_tweets_attachments: yes
+          # plugin_tweets_limit: 3
+          # plugin_tweets_user: fixator10
           repositories_forks: yes
