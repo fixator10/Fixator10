@@ -2,6 +2,7 @@
 #### [My discord bot - Ene](https://ene.fixator10.ru)
 
 ![Metrics](https://github.com/Fixator10/Fixator10/blob/master/github-metrics.svg)
+![counter](https://count.getloli.com/get/@fixator10_gh?theme=rule34)
 
 <p align="justify">
   <a href=https://fixator10.ru/discord><img src="https://img.shields.io/discord/221158719025709056.svg?style=for-the-badge&logo=discord"></a>
