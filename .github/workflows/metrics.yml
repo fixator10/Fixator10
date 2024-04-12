@@ -79,4 +79,7 @@ jobs:
           plugin_music_limit: 10
           plugin_music_played_at: yes
           plugin_music_user: fixator10
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198041388511"
           repositories_forks: yes
