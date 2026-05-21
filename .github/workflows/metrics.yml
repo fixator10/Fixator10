@@ -19,9 +19,10 @@ jobs:
           user: Fixator10
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
           config_display: large
           config_timezone: Europe/Samara
-          repositories_skipped: status
+          repositories_skipped: status, Fixator10
           # repositories: 50 # lowlighter/metrics#1558
           plugin_achievements: yes
           plugin_achievements_display: compact
